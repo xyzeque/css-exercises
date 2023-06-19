@@ -11,13 +11,12 @@
 }
 
 /* Third element */
-.odd.cooler {
+.cooler {
   font-size: 24px;
 }
 
 /* Fourth element */
 #green {
   background-color: hsl(120, 73%, 75%);
-  font-size: 24px;
   font-weight: bold;
 }
