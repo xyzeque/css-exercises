@@ -7,21 +7,39 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  /* ANSWER */
+  /* padding-top: 0; */
+  padding: 8px;
+  /* border: 8px white solid; */
 }
 
 .title {
   background: #e3f4ff;
+  /* ANSWER */
+  padding: 8px;
+  margin-top: 0px;
+  font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
+  /* ANSWER */
+  padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  /* ANSWER */
+  padding: 8px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  /* ANSWER */
+  display: block;
+  padding: 8px 24px;
+  margin: 0 auto;
 }
