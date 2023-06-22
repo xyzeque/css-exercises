@@ -4,7 +4,7 @@
   /* ANSWER */
   padding: 8px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -32,14 +32,14 @@ ul {
 }
 
 /* ANSWER */
-.left-links {
+/* .left-links {
   margin-right: auto;
-}
+} */
 
 /* ANSWER */
-.right-links {
+/* .right-links {
   margin-left: auto;
-}
+} */
 
 
 .left-links {
